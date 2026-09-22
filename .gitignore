@@ -1,0 +1,8 @@
+# never publish credentials or queue data
+config.json
+tokens.json
+jobs.json
+logs/
+videos/
+thumbnails/
+.DS_Store
